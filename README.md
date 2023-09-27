@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # framework7-demo-app
-=======
 # demo-application
 
 ## Framework7 CLI Options
@@ -74,4 +72,3 @@ framework7 assets --ui
 Love Framework7? Support project by donating or pledging on:
 - Patreon: https://patreon.com/framework7
 - OpenCollective: https://opencollective.com/framework7
->>>>>>> 23f9895 ([INIT] first commit)
