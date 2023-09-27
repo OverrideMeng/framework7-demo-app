@@ -1,0 +1,18 @@
+{
+  "cwd": "/Users/papatpon.d/workspaces/personal_project/framework7-demo-application",
+  "type": [
+    "web"
+  ],
+  "name": "demo-application",
+  "framework": "core",
+  "template": "split-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
