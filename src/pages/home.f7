@@ -10,7 +10,7 @@
             <i class="icon material-icons if-md">menu</i>
           </a>
         </div>
-        <div class="title sliding">demo-application</div>
+        <div class="title sliding">testdemo-application</div>
         <div class="right">
           <a href="#" class="link icon-only panel-open" data-panel="right">
             <i class="icon f7-icons if-not-md">menu</i>
@@ -18,7 +18,7 @@
           </a>
         </div>
         <div class="title-large">
-          <div class="title-large-text">demo-application</div>
+          <div class="title-large-text">testdemo-application</div>
         </div>
       </div>
     </div>
